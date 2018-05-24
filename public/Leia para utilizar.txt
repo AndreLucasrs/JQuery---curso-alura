@@ -1,0 +1,6 @@
+para fazer o back-end funcionar,
+vai na pastar servidor pelo terminal
+rode o npm start
+e a url é http://localhost:3000/principal.html
+essa tbm funciona, mas a principal é a de cima
+http://localhost:3000
